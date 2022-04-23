@@ -5,3 +5,5 @@ no
 yes/no
 
 conflict in b
+
+conflict in b2
